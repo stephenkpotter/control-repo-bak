@@ -8,6 +8,12 @@ mod 'puppetlabs-powershell', '2.1.1'
 mod "puppetlabs/concat",      '4.0.1'
 mod 'puppetlabs-ntp', '6.2.0'
 mod 'puppetlabs-apache', '1.11.0'
+mod 'puppetlabs-chocolatey', '3.0.0'
+mod 'puppetlabs-registry', '1.1.4'
+mod 'puppetlabs-reboot', '1.2.1'
+mod 'puppetlabs-dsc', '1.3.0'
+mod 'puppetlabs-aws', '2.0.0'
+mod 'puppetlabs-sqlserver', '1.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
