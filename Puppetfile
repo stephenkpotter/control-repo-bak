@@ -24,3 +24,9 @@ mod 'puppetlabs-sqlserver', '1.2.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+#  
+#
+#  SKP Modules
+mod 'system_users'
+:git  => 'https://github.com/stephenkpotter/control-repo/tree/production/skp-manifests/system_users' 
+:tag => '0.1.0' 
