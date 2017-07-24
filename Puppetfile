@@ -28,4 +28,4 @@ mod 'puppetlabs-sqlserver', '1.2.0'
 #
 #  SKP Modules
 mod "system_users",
-  :git  => 'https://github.com/stephenkpotter/control-repo/production/skp-manifests/system_users'
+  :git  => 'https://github.com/stephenkpotter/training/skp-manifests/system_users'
