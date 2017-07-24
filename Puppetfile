@@ -26,5 +26,6 @@ mod 'puppetlabs-aws', '2.0.0'
 #
 #
 #  SKP Modules
-mod "system_users",
-  :git  => 'https://github.com/stephenkpotter/training/skp-manifests/system_users'
+mod 'system_users',
+  :git  => 'https://github.com/stephenkpotter/training/skp-manifests/system_users',
+  :branch => 'master'
