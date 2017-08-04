@@ -13,6 +13,8 @@ mod 'puppetlabs-registry', '1.1.4'
 mod 'puppetlabs-reboot', '1.2.1'
 mod 'puppetlabs-dsc', '1.3.0'
 mod 'puppetlabs-aws', '2.0.0'
+mod 'puppetlabs-vsphere', '1.2.2'
+mod 'andulla-vsphere_conf', '0.0.9'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
